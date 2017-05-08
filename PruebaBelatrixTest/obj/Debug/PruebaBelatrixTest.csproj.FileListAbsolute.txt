@@ -1,0 +1,9 @@
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\obj\Debug\PruebaBelatrixTest.csprojResolveAssemblyReference.cache
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\bin\Debug\PruebaBelatrixTest.dll
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\bin\Debug\PruebaBelatrixTest.pdb
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\bin\Debug\PruebaBelatrix.exe
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\bin\Debug\PruebaBelatrix.pdb
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\obj\Debug\PruebaBelatrixTest.dll
+c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrixTest\obj\Debug\PruebaBelatrixTest.pdb
