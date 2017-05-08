@@ -1,5 +1,0 @@
-c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrix\bin\Debug\PruebaBelatrix.exe.config
-c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrix\bin\Debug\PruebaBelatrix.exe
-c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrix\bin\Debug\PruebaBelatrix.pdb
-c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrix\obj\Debug\PruebaBelatrix.exe
-c:\users\ccarlossnow\documents\visual studio 2015\Projects\PruebaBelatrix\PruebaBelatrix\obj\Debug\PruebaBelatrix.pdb
